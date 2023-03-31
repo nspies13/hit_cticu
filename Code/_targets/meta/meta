@@ -1,0 +1,68 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|7a088e2846acce52|||||||||||||||
+admissions|stem|74322dc709769bbd|c8498381c372a63a|161a4d3b6f677830|1934972414||t19370.8197589861s|e0c62c820552b586|25813|qs|local|vector|||1.122||
+allergies|stem|a8bfa40ccb9999e6|03e6011a85519996|161a4d3b6f677830|-1472217729||t19370.8203745534s|5ce53cca4616e4a7|27052|qs|local|vector|||0.143||
+alpha_map|object|c5efdccec80ff711|||||||||||||||
+analyzeResults|function|fef595dd8267dfe2|||||||||||||||
+color_map|object|e67c25c4eea02776|||||||||||||||
+combined_results|stem|f3f6ca564816db04|3d757e9a12518b92|daccc02b90e68c9d|-897517335||t19430.0035586269s|9d8155a3ef3c24ad|3800|qs|local|vector|||0.062||
+combineResults|function|da19400587f9424b|||||||||||||||
+convertDemographics|function|b499f632358a95e2|||||||||||||||
+decisions|object|ed55869733f9ce7c|||||||||||||||
+demo_input|stem|84bab3b72d042aef|061a677b46d1218c|649f3ed3e92ff20f|-84520651||t19379.7368037308s|b826a4b9dc7189a6|21364|qs|local|vector|||0.033||
+demographics|stem|82bb6d4eb33ed8c7|1bca82cdf9ae3252|161a4d3b6f677830|1907140893||t19370.82047571s|b3ffa25506d8b047|11607|qs|local|vector|||0.149||
+diagnoses|stem|aecac08e60a9d033|73c29ebd62e03ebe|161a4d3b6f677830|-200751636||t19370.8198972517s|20a2edb46563a2f3|501108|qs|local|vector|||0.177||
+eda|object|396343b5192ebddf|||||||||||||||
+figures|object|7a987c4674bc7cd7|||||||||||||||
+getLIAresults|function|e1d5a625ae688344|||||||||||||||
+getMARchanges|function|fd8c7f38c3ee0a4f|||||||||||||||
+getOrderChanges|function|297a5cd8073b9733|||||||||||||||
+getOrderDecisions|function|a8ad1b79495f4b8b|||||||||||||||
+getOrders|function|391ba276dcb43937|||||||||||||||
+getRecentMAR|function|8ffe0ac3da653c55|||||||||||||||
+getRecentPlatelets|function|b6b15d6d68ffc581|||||||||||||||
+getSRAresults|function|5b4da7b3efb9464d|||||||||||||||
+hit_collect|stem|cad1f170b7e0e661|6b7b60a151a73034|d23e1b9d8976aa67|-1286606049||t19380.1698401654s|5cc80c0464196ae6|1789|qs|local|vector|||0.047||
+hit_labs|stem|7ddab9883bcecc81|d933caa121c4d16c|76fd378246e44845|236885647||t19380.169839272s|51f760c1765afb94|12668|qs|local|vector|||1.205||
+hit_mar|stem|ded7b1a03c51e8d9|e2850f56152e9764|9df7a50a19a0c0c9|-1738940534||t19380.1698990801s|59b5da056d8a39cb|238332|qs|local|vector|||3.941||
+hit_med_orders|stem|9d77a2fb4112ae8b|4d23899e42cf9b00|129841da57c37945|-1817625833||t19380.1699863261s|9294a150de8f9ecf|214779|qs|local|vector|||5.623||
+hit_patient_diagnoses|stem|75a0a6d037a82e80|9a5b2b98e354faa1|9e7c5575e023f3fb|-512760728||t19380.1698414498s|5a347b6a636dd485|82069|qs|local|vector|||0.015||
+hit_patients|stem|d99e18ed778ff7df|217094fd251c42a1|afbe010631aae165|-100112108||t19380.1698395185s|e9813d94b6888488|786|qs|local|vector|||0.008||
+labs|stem|05b3e82d7b023c79|e183e6d3dbcbb585|161a4d3b6f677830|-807153857||t19370.8198918259s|ceb5d8c9adec30e1|26971049|qs|local|vector|||7.552|1m22mOne or more parsing issues, call problems on your data frame for details,e.g.  dat  vroom...  problemsdat|
+lda|stem|afc6604ca2de74bf|bdc0af9a97cad0aa|161a4d3b6f677830|-1398599600||t19370.8204926043s|95aab51288842b56|3563511|qs|local|vector|||0.911||
+lia_positivity_rates|stem|4b8f110ba6c5a40c|b7ece844fa301a6b|e1638cc79f205b80|-773911407||t19430.0115602597s|4bab66ba4bee4440|108|qs|local|vector|||1.38||
+lia_repeat|stem|8d9cfd336bae9f7d|93965c5a6ce6def6|411c66bbc7c3ad42|-144956607||t19380.7683584631s|ebd1054f3f481e45|110|qs|local|vector|||0.577|1m22mIgnoring unknown aesthetics 32mlabel39m. 1m22mIgnoring unknown aesthetics 32mlabel39m. 1m22mIgnoring unknown aesthetics 32mfill39m. 1m22mIgnoring unknown aesthetics 32mlabel39m. 1m22mIgnoring unknown aesthetics 32mlabel39m|
+lia_results|stem|79e20b55e05a745f|1e68dbc74eafe7b0|e79287fb3d6d06ce|796870284||t19380.1698406283s|2ca647586c8f7435|3691|qs|local|vector|||0.03||
+load|object|6572e9b2e8987dbb|||||||||||||||
+load_data|object|43df17961f6b42af|||||||||||||||
+loadData|function|7f751aef04cd03cd|||||||||||||||
+makeDemographicsTable|function|cfd8572a27cdabbd|||||||||||||||
+makeLabResultsTable|function|6d7d13ef62bce5f2|||||||||||||||
+makePositivityRatesFigures|function|a52624b3a238785e|||||||||||||||
+makeRepeatLIAFigures|function|9095f6fecef3e208|||||||||||||||
+makeRepeatSRAFigures|function|010f2baa4ac781ea|||||||||||||||
+makeSRAbyLIAplot|function|2e61b7524a52febf|||||||||||||||
+makeTimelineTibble|function|05119f65f1e437cc|||||||||||||||
+mar|stem|0d1c6622fd3d8b49|81751563b0cc1d05|161a4d3b6f677830|-1444119597||t19370.8204538094s|280d79ac70b26e19|18055600|qs|local|vector|||4.516|1m22mOne or more parsing issues, call problems on your data frame for details,e.g.  dat  vroom...  problemsdat|
+mar_changes|stem|e52e632575604140|354d1ff3f0baaeb4|37d74a563db7baf4|169919976||t19420.1022176009s||251503|qs|local|vector|||0.215||1m22mProblem while computing Order  ORDER_ID.x.1mCaused by error in maskeval_all_mutate22m33m39m object ORDER_ID.x not found
+measurements|stem|8af12033a62bfd79|9f3e8bfd702f1a10|161a4d3b6f677830|13268384||t19370.8204561814s|2a8a879aba37471d|183723|qs|local|vector|||0.159||
+med_orders|stem|243e4281533c4e72|5948e3dac47a3b01|161a4d3b6f677830|2092425515||t19370.8203722914s|508ebc8489208ebe|22406928|qs|local|vector|||8.244||
+order_changes|stem|c0d3b61e7de31e50|7fdbff9325b9bd49|9c6b653bf66eaba2|1003262713||t19380.1700234229s|ebba2cd85f3ee0f2|18983|qs|local|vector|||0.759||
+order_decisions|stem|e5d97d7e9b96b3ef|457230ac196005f8|8499f631fe6cc83c|-279462870||t19445.814978675s|abbdb7fe746336f0|76|qs|local|vector|||2.442|coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical. coercing argument of type character to logical|
+order_times|stem|158b75338fe5b25b|c238e9aa3dde51b4|02344cdd9d05b818|-1818490778||t19420.1010311131s|88a48dbda38d0b3a|9480|qs|local|vector|||0.388||
+plotMARchanges|function|0e3ebcdb3181db4b|||||||||||||||
+plotOrderChanges|function|24f6de432a86ee3e|||||||||||||||
+plotTAT|function|c5d06d9c12e4becd|||||||||||||||
+pmh|stem|d0fa838e88ef1946|fef370cbc9889c42|161a4d3b6f677830|-1490324112||t19370.8198943603s|b742912066931a1e|173544|qs|local|vector|||0.142||
+positivity_rates|stem|4b8f110ba6c5a40c|a608471b02d612c9|5e3efa11062e5613|2006090981||t19373.9825356829s|4bab66ba4bee4440|108|qs|local|vector|||1.138||
+procedures|stem|5fe5437e36b9c0d9|28c502c378914cb4|161a4d3b6f677830|328032768||t19370.8204736007s|323ff6e046b829ef|11024021|qs|local|vector|||0.88||
+recent_anticoagulation|stem|50e4f1e7e961d221|8e1d861d0b3f26e4|25d85468f03f5f0b|1479926787||t19371.1629337541s|cf4c4d534d57ef26|9141|qs|local|vector|||0.748||
+recent_platelets|stem|4b66e8637d16e413|bc6f216ebaaf39e4|4d7ac8ec96cc4d98|-49384045||t19380.1700003503s|19a48685cef9a9c8|51837|qs|local|vector|||1.196|NAs introduced by coercion|
+results_analysis|stem||37d7f857e77956e9|8ad1301abfae3eb7|1208632074||t19373.7342569678s||0|qs|local|vector|||0.127||object lia_results not found
+sra_by_lia|stem|38a1c841cdfad49a|a7436a4d1f75a7bb|588be58a1537e213|1533789593||t19430.0035717704s|887021b347b02e8f|100|qs|local|vector|||1.102|1m22mThe dotdot notation ..x.. was deprecated in ggplot2 3.4.0.36mℹ39m Please use after_statx instead.. 1m22mRemoved 1 rows containing nonfinite values stat_bin.. 1m22mRemoved 1 rows containing nonfinite values stat_bin.. 1m22mRemoved 1 rows containing nonfinite values stat_bin.. 1m22mRemoved 2 rows containing missing values position_stack.. 1m22mRemoved 2 rows containing missing values position_stack.. 1m22mRemoved 1 rows containing missing values position_stack.|
+sra_repeat|stem|2f9bbfc9533293be|f12e7ac0a9131b5a|cfe14b3f95bcc272|-425738681||t19380.7683323338s|303de8fdb625d7f0|113|qs|local|vector|||0.65|1m22mIgnoring unknown aesthetics 32mlabel39m. 1m22mIgnoring unknown aesthetics 32mlabel39m. 1m22mIgnoring unknown aesthetics 32mfill39m. 1m22mUsing the size aesthetic in this geom was deprecated in ggplot2 3.4.0.36mℹ39m Please use linewidth in the default_aes field and elsewhere instead.|
+sra_results|stem|3d1b5dbca24ff712|5b4e3797acaf71db|996720c756dce824|1518915416||t19380.1698409619s|f69b7bdb9a424e55|857|qs|local|vector|||0.019||
+table_1|stem||1a7e682c63dc59ac|73c3545c42163d97|-1353748333||t19380.1706267624s||0|qs|local|vector|||0.191||Cant subset columns that dont exist.31m39m Column AGE doesnt exist.
+tested|object|40413fe4b044984c|||||||||||||||
+theme_ns|object|e95e458cc09061da|||||||||||||||
+tmp|function|7ebfdd6c73b92c3a|||||||||||||||

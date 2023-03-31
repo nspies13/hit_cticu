@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='576.00pt' viewBox='0 0 576.00 576.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='576.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)'>
+<rect x='0.00' y='0.00' width='576.00' height='576.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpMjQuMTN8NTcwLjUyfDIyLjQxfDU1Mi43Mw=='>
+    <rect x='24.13' y='22.41' width='546.39' height='530.32' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMjQuMTN8NTcwLjUyfDIyLjQxfDU1Mi43Mw==)'>
+<rect x='111.05' y='125.23' width='124.18' height='403.40' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #999999;' />
+<rect x='111.05' y='46.52' width='124.18' height='78.71' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8B0000;' />
+<rect x='359.41' y='459.75' width='124.18' height='68.87' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #999999;' />
+<rect x='359.41' y='445.00' width='124.18' height='14.76' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8B0000;' />
+<rect x='359.41' y='442.54' width='124.18' height='2.46' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8B0000; fill-opacity: 0.80;' />
+<text x='173.14' y='335.09' text-anchor='middle' style='font-size: 22.76px;fill: #FFFFFF; font-family: "Arial";' textLength='37.95px' lengthAdjust='spacingAndGlyphs'>164</text>
+<text x='173.14' y='94.03' text-anchor='middle' style='font-size: 22.76px;fill: #FFFFFF; font-family: "Arial";' textLength='25.30px' lengthAdjust='spacingAndGlyphs'>32</text>
+<text x='421.50' y='502.35' text-anchor='middle' style='font-size: 22.76px;fill: #FFFFFF; font-family: "Arial";' textLength='25.30px' lengthAdjust='spacingAndGlyphs'>28</text>
+<text x='421.50' y='438.40' text-anchor='middle' style='font-size: 22.76px; font-family: "Arial";' textLength='21.51px' lengthAdjust='spacingAndGlyphs'>7*</text>
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHw1NzYuMDA=)'>
+<polyline points='24.13,552.73 24.13,22.41 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<polyline points='24.13,552.73 570.52,552.73 ' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<text x='173.14' y='568.75' text-anchor='middle' style='font-size: 16.00px; font-weight: bold; font-style: italic; font-family: "Helvetica";' textLength='25.77px' lengthAdjust='spacingAndGlyphs'>LIA</text>
+<text x='421.50' y='568.75' text-anchor='middle' style='font-size: 16.00px; font-weight: bold; font-style: italic; font-family: "Helvetica";' textLength='33.78px' lengthAdjust='spacingAndGlyphs'>SRA</text>
+<text transform='translate(15.55,287.57) rotate(-90)' text-anchor='middle' style='font-size: 14.00px; font-weight: bold; font-style: italic; font-family: "Helvetica";' textLength='40.41px' lengthAdjust='spacingAndGlyphs'>Count</text>
+<rect x='379.39' y='43.82' width='109.06' height='84.47' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='384.87' y='54.78' width='22.68' height='22.68' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='385.58' y='55.48' width='21.26' height='21.26' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8B0000; fill-opacity: 0.80;' />
+<text x='396.21' y='74.27' text-anchor='middle' style='font-size: 22.76px;fill: #FFFFFF; fill-opacity: 0.80; font-family: "Arial";' textLength='12.65px' lengthAdjust='spacingAndGlyphs'>a</text>
+<rect x='384.87' y='77.45' width='22.68' height='22.68' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='385.58' y='78.16' width='21.26' height='21.26' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #8B0000;' />
+<text x='396.21' y='96.95' text-anchor='middle' style='font-size: 22.76px;fill: #FFFFFF; font-family: "Arial";' textLength='12.65px' lengthAdjust='spacingAndGlyphs'>a</text>
+<rect x='384.87' y='100.13' width='22.68' height='22.68' style='stroke-width: 1.07; stroke: none; fill: #F2F2F2;' />
+<rect x='385.58' y='100.84' width='21.26' height='21.26' style='stroke-width: 1.07; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #999999;' />
+<text x='396.21' y='119.63' text-anchor='middle' style='font-size: 22.76px;fill: #FFFFFF; font-family: "Arial";' textLength='12.65px' lengthAdjust='spacingAndGlyphs'>a</text>
+<text x='413.03' y='69.27' style='font-size: 8.80px; font-family: "Helvetica";' textLength='69.95px' lengthAdjust='spacingAndGlyphs'>See Interpretation</text>
+<text x='413.03' y='91.95' style='font-size: 8.80px; font-family: "Helvetica";' textLength='30.80px' lengthAdjust='spacingAndGlyphs'>Positive</text>
+<text x='413.03' y='114.62' style='font-size: 8.80px; font-family: "Helvetica";' textLength='34.73px' lengthAdjust='spacingAndGlyphs'>Negative</text>
+<text x='297.32' y='20.42' text-anchor='middle' style='font-size: 18.00px; font-weight: bold; font-family: "Helvetica";' textLength='230.02px' lengthAdjust='spacingAndGlyphs'>Result Counts of First Test</text>
+</g>
+</svg>

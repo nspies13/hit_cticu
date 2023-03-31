@@ -1,0 +1,23 @@
+{
+  "R": {
+    "Version": "4.1.2",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      }
+    ]
+  },
+  "Packages": {
+    "renv": {
+      "Package": "renv",
+      "Version": "0.16.0",
+      "OS_type": NA,
+      "NeedsCompilation": "no",
+      "Repository": "CRAN",
+      "Path": NA,
+      "Source": "Repository",
+      "Requirements": []
+    }
+  }
+}
